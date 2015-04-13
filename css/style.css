@@ -1,0 +1,52 @@
+
+
+header {
+	background: #ffffff url("../img/header.jpg") no-repeat center bottom;
+	height: 280px;
+	background-size:cover;
+}
+
+.title {
+	text-align: center;
+	margin-top: 0;
+	padding-top: 60px;
+	color: #f1f1f1;
+	font-weight: bold;
+	font-size: 60px;
+	opacity: 0.9;
+}
+
+.subtitle {
+	text-align: center;
+	color: #f1f1f1;
+	font-weight: bold;
+	font-size: 37px;
+	opacity: 0.9;
+}
+
+.row {
+	width: 100%;
+}
+
+.no-bm {
+	margin-bottom: 0;
+}
+
+#pressRelease p, #pressRelease h2{
+	margin-bottom: 20px;
+}
+
+footer {
+	background: #f1f1f1;
+	margin-top: 20px;
+	padding: 10px 20px 5px 0;
+	text-align: right;
+}
+
+code {
+	font-weight: bold;
+}
+
+.contact {
+	font-size: 18px;
+}
