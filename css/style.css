@@ -6,6 +6,9 @@ header {
 	background-size:cover;
 }
 
+#container {
+	max-width: 1024px;
+}
 .title {
 	text-align: center;
 	margin-top: 0;
