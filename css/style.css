@@ -1,65 +1,60 @@
-
-
 header {
-	background: #ffffff url("../img/header.jpg") no-repeat center bottom;
-	height: 280px;
-	background-size:cover;
+    background: #ffffff url("../img/header.jpg") no-repeat center bottom;
+    height: 280px;
+    background-size: cover;
 }
-
 #content {
-	max-width: 1024px;
+    max-width: 1024px;
 }
 .title {
-	text-align: center;
-	margin-top: 0;
-	padding-top: 60px;
-	color: #f1f1f1;
-	font-weight: bold;
-	font-size: 60px;
-	opacity: 0.9;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 60px;
+    color: #f1f1f1;
+    font-weight: bold;
+    font-size: 60px;
+    opacity: 0.9;
 }
-
 .subtitle {
-	text-align: center;
-	color: #f1f1f1;
-	font-weight: bold;
-	font-size: 37px;
-	opacity: 0.9;
+    text-align: center;
+    color: #f1f1f1;
+    font-weight: bold;
+    font-size: 37px;
+    opacity: 0.9;
 }
-
 .no-mb {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
 .blue {
-	color: #1F7EDE
+    color: #1F7EDE
 }
-#pressRelease p, #pressRelease h2{
-	margin-bottom: 20px;
+#pressRelease p,
+#pressRelease h2 {
+    margin-bottom: 20px;
 }
 .thumb {
-	padding: 0 5px;
+    padding: 0 5px;
 }
 footer {
-	background: #f1f1f1;
-	margin-top: 20px;
-	padding: 10px 20px 5px 0;
-	text-align: right;
+    background: #f1f1f1;
+    margin-top: 20px;
+    padding: 10px 20px 5px 0;
+    text-align: right;
 }
-
 code {
-	font-weight: bold;
+    font-weight: bold;
 }
 .code {
-  color: #c7254e;
+    color: #c7254e;
 }
 .code:hover {
-  color: #c7254e;
+    color: #c7254e;
 }
 .contact {
-	font-size: 18px;
+    font-size: 18px;
 }
 @media (max-width: 450px) {
-  .title {
-    padding-top: 20px;
-  }
+    .title {
+        padding-top: 20px;
+    }
 }
