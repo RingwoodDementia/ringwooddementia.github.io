@@ -27,16 +27,12 @@ header {
 	opacity: 0.9;
 }
 
-.row {
-	width: 100%;
-}
-.thumb {
-	padding: 0 5px;
-}
-.no-bm {
+.no-mb {
 	margin-bottom: 0;
 }
-
+.blue {
+	color: #1F7EDE
+}
 #pressRelease p, #pressRelease h2{
 	margin-bottom: 20px;
 }
@@ -59,4 +55,9 @@ code {
 }
 .contact {
 	font-size: 18px;
+}
+@media (max-width: 450px) {
+  .title {
+    padding-top: 20px;
+  }
 }
