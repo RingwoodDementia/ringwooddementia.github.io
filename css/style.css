@@ -6,7 +6,7 @@ header {
 	background-size:cover;
 }
 
-#container {
+#content {
 	max-width: 1024px;
 }
 .title {
@@ -36,7 +36,9 @@ header {
 #pressRelease p, #pressRelease h2{
 	margin-bottom: 20px;
 }
-
+.thumb {
+	padding: 0 5px;
+}
 footer {
 	background: #f1f1f1;
 	margin-top: 20px;
