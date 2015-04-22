@@ -30,7 +30,9 @@ header {
 .row {
 	width: 100%;
 }
-
+.thumb {
+	padding: 0 5px;
+}
 .no-bm {
 	margin-bottom: 0;
 }
@@ -49,7 +51,12 @@ footer {
 code {
 	font-weight: bold;
 }
-
+.code {
+  color: #c7254e;
+}
+.code:hover {
+  color: #c7254e;
+}
 .contact {
 	font-size: 18px;
 }
