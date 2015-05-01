@@ -1,15 +1,15 @@
 header {
     background: #ffffff url("../img/header.jpg") no-repeat center bottom;
-    height: 280px;
     background-size: cover;
 }
 #content {
     max-width: 1024px;
 }
+.main-title {
+	padding: 40px 0;
+}
 .title {
     text-align: center;
-    margin-top: 0;
-    padding-top: 60px;
     color: #f1f1f1;
     font-weight: bold;
     font-size: 60px;
