@@ -28,6 +28,12 @@ header {
 .blue {
     color: #1F7EDE
 }
+.orange {
+    color: #D93B03
+}
+.green {
+    color: #008000
+}
 #pressRelease p,
 #pressRelease h2 {
     margin-bottom: 20px;
@@ -52,6 +58,12 @@ code {
 }
 .contact {
     font-size: 18px;
+}
+
+@media (min-width: 900px) {
+	.modal-dialog {
+		width: 800px;
+	}
 }
 @media (max-width: 450px) {
     .title {
