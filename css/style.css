@@ -34,6 +34,9 @@ header {
 .green {
     color: #008000
 }
+.v-center {
+	vertical-align: middle !important;
+}
 #pressRelease p,
 #pressRelease h2 {
     margin-bottom: 20px;
